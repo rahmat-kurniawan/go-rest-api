@@ -1,4 +1,4 @@
-module gin-api
+module github.com/rahmat-kurniawan/go-rest-api
 
 go 1.14
 
